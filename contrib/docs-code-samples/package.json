@@ -1,7 +1,7 @@
 {
   "private": true,
   "dependencies": {
-    "@grpc/grpc-js": "^1.2.6",
+    "@grpc/grpc-js": "^1.8.8",
     "@ory/keto-grpc-client": "file:../../proto"
   },
   "scripts": {
